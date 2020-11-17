@@ -1,2 +1,2 @@
 # ActiveBox
-Landing page
+Landing page (HTML, CSS, JS (JQuery))
